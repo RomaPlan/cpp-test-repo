@@ -1,4 +1,8 @@
 #include <iostream>
 
-int main() {
-    std::cout << "Hello, Git!" << std::endl;
+using namespace std;
+
+int main()
+{
+	cout << "Hello, Git!" << endl;
+}
